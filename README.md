@@ -23,7 +23,7 @@ git clone https://github.com/PerfectionistAF/Voda-Task.git
 
 ## Usage
 
-First activate the node server using: 
+First navigate to the source directory then activate the node server using: 
 
 ```
 node index.js
