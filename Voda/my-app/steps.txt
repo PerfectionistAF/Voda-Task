@@ -1,0 +1,25 @@
+-------------PLAN-------------
+
+Create standalone routing app---------------------------------------------DONE
+
+Create static test entries------------------------------------------------DONE
+
+Create service to retrieve from backend to frontend-----------------------DONE
+
+Use Http Client to import data from backend to frontend-------------------DONE
+
+Create first screen to display home entry(first entry)
+City.city, City.forecast[0].temperatureCelsius, 
+City.forecast[0].temperatureFahrenheit, City.forecast[0].humidity---------DONE
+
+Test different cities, dynamicly------------------------------------------DONE
+ 
+List all cities-----------------------------------------------------------DONE
+
+Create a search bar to type in the name of the city-----------------------DONE
+
+Create cards for all the days given---------------------------------------DONE
+
+Create a date search bar--------------------------------------------------DONE
+
+
