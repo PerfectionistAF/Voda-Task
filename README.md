@@ -18,7 +18,7 @@ https://github.com/PerfectionistAF/ProblemSolving_Code/tree/main/Voda
 Clone or download the files using the following command
 
 ```
-git clone 
+git clone https://github.com/PerfectionistAF/Voda-Task.git
 ```
 
 ## Usage
